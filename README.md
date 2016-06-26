@@ -1,13 +1,3 @@
-### Angular 2 in TypeScript
-> TypeScript lets you write JavaScript the way you really want to.
-TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-
-#### TypeScript General Resources
-* [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
-* [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-* [TSD](http://definitelytyped.org/tsd/) TypeScript Definition manager for DefinitelyTyped
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
 
 #### TypeScript Seed Projects
